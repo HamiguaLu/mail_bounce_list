@@ -1247,3 +1247,4 @@ Timestamp,Recipient Email,Sender Domain,Record Type,SMTP Code,SMTP Message,Class
 2026-07-06T14:53:45.212057200Z,braydon.boggs@icloud.com,Bounce,552,<braydon.boggs@icloud.com>: user is over quota,QuotaIssues,Hard
 2026-07-06T14:53:48.046790Z,braylonward86@icloud.com,Bounce,552,<braylonward86@icloud.com>: user is over quota,QuotaIssues,Hard
 2026-07-06T14:53:49.211502900Z,braythomas52@icloud.com,Bounce,552,<braythomas52@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-07T00:34:11.657992900Z,agood@mail5.adelphilocums.com,OOB,552,5.2.2 <agood@mail5.adelphilocums.com> Quota exceeded (mailbox for user is full),QuotaIssues,Hard
