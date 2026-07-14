@@ -972,3 +972,108 @@ Timestamp,Recipient Email,Sender Domain,Record Type,SMTP Code,SMTP Message,Class
 2026-06-21T08:49:37.706351300Z,nina.fletcher13@brindalux.com,Bounce,550,Access denied; banned sending IP [104.168.135.236]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [BN2PEPF000044AC.namprd04.prod.outlook.com 2026-06-21T08:49:40.126Z 08DECF52203D1DB4],HardBounce
 2026-06-21T08:50:46.178574900Z,paula@haloaicreators.com,Bounce,550,Access denied; banned sending IP [104.168.135.236]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [SJ1PEPF000023D1.namprd02.prod.outlook.com 2026-06-21T08:50:48.341Z 08DECEC672D2996E],HardBounce
 2026-06-21T08:53:24.151109800Z,okan.hanli@scalingmail.net,Bounce,550,Access denied; banned sending IP [104.168.135.236]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [FR2PEPF000004F0.DEUP281.PROD.OUTLOOK.COM 2026-06-21T08:53:27.135Z 08DECED29D552B37],HardBounce
+2026-07-13T01:19:18.525455100Z,emilyjohnson@selectconsulting.info,OOB,550,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. For more information; go to 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-479ca468338sor3269288f8f.21 - gsmtp,InvalidRecipient,Hard
+2026-07-13T01:30:42.398801100Z,ardit@scoutrrpro.com,OOB,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to https://support.google.com/mail/?p=NoSuchUser,InvalidRecipient,Hard
+2026-07-13T14:19:23.081602200Z,drainer-fangs.0u@icloud.com,Bounce,550,<drainer-fangs.0u@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:19:32.589131400Z,gego2400@icloud.com,Bounce,550,user no longer on system:gego2400@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:19:32.842294Z,gallium.naps4z@icloud.com,Bounce,550,<gallium.naps4z@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:19:37.836149300Z,fresitaesmeralda227@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47aa1e8b6a8si54513771f8f.284 - gsmtp,InvalidRecipient,Hard
+2026-07-13T14:19:34.056930900Z,ethanhill303@icloud.com,Bounce,552,<ethanhill303@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:19:35.892102600Z,geovanyperez0215@icloud.com,Bounce,550,user no longer on system:geovanyperez0215@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:19:40.214722900Z,geminicrocket121010@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm ffacd0b85a97d-47aa2263d83si52225734f8f.353 - gsmtp,QuotaIssues,Hard
+2026-07-13T14:19:34.746959700Z,ethanleo10@icloud.com,Bounce,552,<ethanleo10@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:19:47.966783700Z,gerardm92@icloud.com,Bounce,550,user no longer on system:gerardm92@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:19:47.300021300Z,ferretthemush01@icloud.com,Bounce,552,<ferretthemush01@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:19:51.930146900Z,fetty37@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47aa17ca240si57477758f8f.187 - gsmtp,InvalidRecipient,Hard
+2026-07-13T14:19:51.654669200Z,fetes-baggier-1d@icloud.com,Bounce,550,<fetes-baggier-1d@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:19:52.215649Z,feudal_flak.6o@icloud.com,Bounce,550,<feudal_flak.6o@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:19:55.935446900Z,ffarley726@gmail.com,OOB,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to https://support.google.com/mail/?p=NoSuchUser,InvalidRecipient,Hard
+2026-07-13T14:19:56.048756800Z,genobell80@icloud.com,Bounce,552,<genobell80@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:19:56.919892900Z,genotheboss@icloud.com,Bounce,550,user no longer on system:genotheboss@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:20:07.605873100Z,fgtfdf@icloud.com,Bounce,550,<fgtfdf@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:20:10.199874800Z,fhernandez5415@icloud.com,Bounce,552,<fhernandez5415@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:13.173152400Z,gesunken.duesen6r@icloud.com,Bounce,550,<gesunken.duesen6r@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:20:17.841422Z,fiefs_curate8x@icloud.com,Bounce,552,<fiefs_curate8x@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:16.474557100Z,getters_tight.2h@icloud.com,Bounce,552,<getters_tight.2h@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:22.818021100Z,gfod1992@icloud.com,Bounce,552,<gfod1992@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:28.215603100Z,gggalion@icloud.com,Bounce,552,<gggalion@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:27.317452400Z,filipatsmith@icloud.com,Bounce,552,<filipatsmith@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:27.263733700Z,georgeabdelmasih8@icloud.com,Bounce,552,<georgeabdelmasih8@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:30.393065200Z,georgebit1@icloud.com,Bounce,552,<georgebit1@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:32.598991200Z,fillies-marking-5o@icloud.com,Bounce,550,<fillies-marking-5o@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:20:38.963407600Z,ghatathley@icloud.com,Bounce,552,<ghatathley@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:39.696038400Z,ghel23@icloud.com,Bounce,552,<ghel23@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:41.539593800Z,ghernandez2reb@icloud.com,Bounce,552,<ghernandez2reb@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:41.897879500Z,ghetobaby@icloud.com,Bounce,552,<ghetobaby@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:42.876648100Z,florin9852@icloud.com,Bounce,550,user no longer on system:florin9852@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:20:49.562221700Z,gangly.fleets-0c@icloud.com,Bounce,552,<gangly.fleets-0c@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:20:53.726561300Z,giacomoetommaso@icloud.com,Bounce,550,user no longer on system:giacomoetommaso@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:21:02.598198Z,gingerman699610@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm ffacd0b85a97d-47aa2edc085si51961660f8f.434 - gsmtp,QuotaIssues,Hard
+2026-07-13T14:21:01.242205700Z,gingabear13@icloud.com,Bounce,550,user no longer on system:gingabear13@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:21:03.352462Z,giannicoolkid@icloud.com,Bounce,552,<giannicoolkid@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:21:10.946985500Z,giddy-grabs-0k@icloud.com,Bounce,552,<giddy-grabs-0k@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:21:17.461182100Z,gigione52@icloud.com,Bounce,552,<gigione52@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:21:29.176205900Z,gilles.proulx2009@icloud.com,Bounce,550,user no longer on system:gilles.proulx2009@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:21:31.785421300Z,garcia65023@icloud.com,Bounce,552,<garcia65023@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:21:32.590643800Z,garcia_l.m.b@icloud.com,Bounce,552,<garcia_l.m.b@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:21:50.376137400Z,gomezwilli96@icloud.com,Bounce,550,user no longer on system:gomezwilli96@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:21:49.042372500Z,gklemm1179@icloud.com,Bounce,552,<gklemm1179@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:21:53.249044800Z,gonflables-diademe0u@icloud.com,Bounce,550,<gonflables-diademe0u@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:22:00.086863400Z,fredygr81@icloud.com,Bounce,552,<fredygr81@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:22:08.826731600Z,glenngebhardt2@icloud.com,Bounce,552,<glenngebhardt2@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:22:13.848482800Z,glenroywashington5@icloud.com,Bounce,552,<glenroywashington5@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:22:18.247074400Z,gorbauchfranzi01@icloud.com,Bounce,552,<gorbauchfranzi01@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:22:17.674644100Z,greenmachinepdr@icloud.com,Bounce,552,<greenmachinepdr@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:22:25.198005100Z,gluey.impulse_8t@icloud.com,Bounce,550,<gluey.impulse_8t@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:22:29.051787600Z,gorges-rustier.7c@icloud.com,Bounce,552,<gorges-rustier.7c@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:22:40.361375900Z,govesher8477@icloud.com,Bounce,552,<govesher8477@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:22:59.441400500Z,goherdwin@icloud.com,Bounce,550,user no longer on system:goherdwin@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:23:06.736127200Z,grahamelvis@icloud.com,Bounce,552,<grahamelvis@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:23:19.579005600Z,granodeoro47@icloud.com,Bounce,552,<granodeoro47@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:23:23.011205200Z,happytimes69@icloud.com,Bounce,550,user no longer on system:happytimes69@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:23:23.601012600Z,haptique.yaourt0a@icloud.com,Bounce,550,<haptique.yaourt0a@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:23:37.908793Z,haris.aslam22@icloud.com,Bounce,552,<haris.aslam22@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:23:47.890679400Z,green.irvin@icloud.com,Bounce,552,<green.irvin@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:23:58.695528200Z,harper_josh172122@icloud.com,Bounce,552,<harper_josh172122@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:24:03.960949Z,harris.k1@icloud.com,Bounce,552,<harris.k1@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:24:08.625051500Z,harrisnick366@icloud.com,Bounce,552,<harrisnick366@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:24:14.322470200Z,harry.dean@icloud.com,Bounce,550,user no longer on system:harry.dean@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:24:15.262582700Z,harry04@icloud.com,Bounce,550,user no longer on system:harry04@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:24:28.610615900Z,hbam52@icloud.com,Bounce,552,<hbam52@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:24:37.476728700Z,harutok8chitomo@icloud.com,Bounce,552,<harutok8chitomo@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:24:40.273464300Z,gary.nelson14@icloud.com,Bounce,552,<gary.nelson14@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:24:46.049120400Z,gary.smith9989@icloud.com,Bounce,552,<gary.smith9989@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:24:54.067849100Z,hbspark@icloud.com,Bounce,552,<hbspark@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:25:05.295480500Z,hate2beyoujk@icloud.com,Bounce,550,user disabled; cannot receive new mail:hate2beyoujk@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:25:39.047722600Z,hayleighsmom2024@icloud.com,Bounce,552,<hayleighsmom2024@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:25:41.409347700Z,hdhdh@icloud.com,Bounce,552,<hdhdh@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:25:57.659424500Z,hdmechanic38@icloud.com,Bounce,550,user no longer on system:hdmechanic38@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:26:08.784566Z,hiba.kreich@icloud.com,Bounce,552,<hiba.kreich@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:26:09.155130500Z,greift-zikaden.0h@icloud.com,Bounce,550,<greift-zikaden.0h@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:26:24.760909600Z,garyhowery@icloud.com,Bounce,552,<garyhowery@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:26:38.370205Z,hearth-rises02@icloud.com,Bounce,550,<hearth-rises02@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:26:46.617409400Z,hippie-ascent.9j@icloud.com,Bounce,550,<hippie-ascent.9j@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:27:02.603483200Z,heathjo1@icloud.com,Bounce,550,user no longer on system:heathjo1@icloud.com,InactiveMailbox,Hard
+2026-07-13T14:27:00.985030100Z,griffinb1584@icloud.com,Bounce,552,<griffinb1584@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:27:22.183742800Z,hoagie-hire0m@icloud.com,Bounce,550,<hoagie-hire0m@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:27:34.407003700Z,hector.rivera1624@icloud.com,Bounce,552,<hector.rivera1624@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:27:52.746311800Z,hollywoodbmx@icloud.com,Bounce,552,<hollywoodbmx@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:27:52.023780400Z,grimier_stunt0w@icloud.com,Bounce,550,<grimier_stunt0w@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:27:46.188923Z,hectorh61@icloud.com,Bounce,552,<hectorh61@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:28:08.967927900Z,honeys35_antenna@icloud.com,Bounce,550,<honeys35_antenna@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:28:16.132774700Z,hoopinwmessi@icloud.com,Bounce,552,<hoopinwmessi@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:28:26.737375800Z,hornets-dials0i@icloud.com,Bounce,550,<hornets-dials0i@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:28:31.242837100Z,horst.eicker@icloud.com,Bounce,552,<horst.eicker@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:28:32.316839Z,horstanastacia124@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47a9e0ff374si55284727f8f.18 - gsmtp,InvalidRecipient,Hard
+2026-07-13T14:28:29.333300300Z,grizzly_easel_0y@icloud.com,Bounce,550,<grizzly_easel_0y@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:28:57.158768400Z,groli.transfer@me.com,Bounce,550,user no longer on system:groli.transfer@me.com,InactiveMailbox,Hard
+2026-07-13T14:28:59.088157300Z,howarddoug1@icloud.com,Bounce,552,<howarddoug1@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-13T14:21:28.187258800Z,gill.g789@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47deb1740ecsi33893730f8f.80 - gsmtp,InvalidRecipient,Hard
+2026-07-13T14:29:05.478896600Z,grooves-07-affable@icloud.com,Bounce,550,<grooves-07-affable@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-13T14:29:21.370175600Z,grouse.haute_9y@icloud.com,Bounce,550,<grouse.haute_9y@icloud.com>: user does not exist,InvalidRecipient,Hard
+2026-07-13T14:28:48.501917200Z,hotshot1999.45@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47aa28245bfsi54210597f8f.384 - gsmtp,InvalidRecipient,Hard
+2026-07-13T14:27:50.917658800Z,hectorlopezz1265@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm 98e67ed59e1d1-38e174769e8si1867a91.19 - gsmtp,QuotaIssues,Hard
+2026-07-13T14:27:39.341292800Z,hoho79@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47f464b9315si442024f8f.311 - gsmtp,InvalidRecipient,Hard
+2026-07-13T14:21:42.791505800Z,gjasons@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47f464a76efsi409427f8f.159 - gsmtp,InvalidRecipient,Hard
+2026-07-13T14:21:04.962860700Z,g69979812@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser 5b1f17b1804b1-4950a30c248si6552995e9.21 - gsmtp,InvalidRecipient,Hard
+2026-07-13T20:40:38.764804800Z,group1@guttergurubusiness.com,OOB,550,The account princel.anderson@guttergururoofmate.com is disabled.,InactiveMailbox,Hard
