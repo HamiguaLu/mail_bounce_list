@@ -5639,3 +5639,33 @@ Timestamp,Recipient Email,Sender Domain,Record Type,SMTP Code,SMTP Message,Class
 2026-07-28T14:24:46.724464Z,nathan.hope083@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm ffacd0b85a97d-47fb6ae1757si1281395f8f.133 - gsmtp,QuotaIssues,Hard
 2026-07-28T14:24:26.879184500Z,mcneillbob1@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47fb6b42175si1201804f8f.359 - gsmtp,InvalidRecipient,Hard
 2026-07-28T14:24:08.383173200Z,chrisjamthomas@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm ffacd0b85a97d-47fb6b35e44si1255633f8f.276 - gsmtp,QuotaIssues,Hard
+2026-07-29T01:12:19.055860100Z,luciano@brandevolves.nl,OOB,552,5.2.2 <luciano@brandevolves.nl> Quota exceeded (mailbox for user is full),QuotaIssues,Hard
+2026-07-29T05:07:09.878335600Z,carlos.davidson@coveragetron.info,OOB,550,5.1.1 <postmaster@coveragealliance.info> User doesn't exist: postmaster@coveragealliance.info,InvalidRecipient,Hard
+2026-07-29T08:58:11.735401900Z,isells@joinbrandspartners.com,OOB,550,,DNSFailure,Hard
+2026-07-29T14:16:34.048239900Z,99-alimentos.tuba@icloud.com,Bounce,550,<99-alimentos.tuba@icloud.com>: inactive email address,InvalidRecipient,Hard
+2026-07-29T14:16:44.094501900Z,a.l.v.d.w09@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm ffacd0b85a97d-47fb6acc103si6243521f8f.34 - gsmtp,QuotaIssues,Hard
+2026-07-29T14:17:14.568231900Z,adamagam@icloud.com,Bounce,552,<adamagam@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:17:35.615903300Z,adammoreno943@icloud.com,Bounce,552,<adammoreno943@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:19:11.032015200Z,ablereyna63@icloud.com,Bounce,552,<ablereyna63@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:19:19.992594100Z,affable-minted.0w@icloud.com,Bounce,552,<affable-minted.0w@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:19:53.363661500Z,amanueldaniel134@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47fb6accc68si6285089f8f.49 - gsmtp,InvalidRecipient,Hard
+2026-07-29T14:19:51.161619800Z,agsid@icloud.com,Bounce,552,<agsid@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:20:10.626700300Z,06-bustle.cannula@icloud.com,OOB,550,,InvalidRecipient,Hard
+2026-07-29T14:20:11.604786500Z,ahenman90@icloud.com,Bounce,552,<ahenman90@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:23:22.240984Z,bushjade@bigpond.com,Bounce,550,bushjade@bigpond.com recipient rejected. Recipient does not exist. IB603A,InvalidRecipient,Hard
+2026-07-29T14:23:47.528765400Z,brad_starks233@icloud.com,Bounce,552,<brad_starks233@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:23:50.785496500Z,blademaster06@icloud.com,Bounce,552,<blademaster06@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:24:43.678006600Z,blksheeppete@icloud.com,Bounce,552,<blksheeppete@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:29:41.394854300Z,chazasandling12@icloud.com,Bounce,552,<chazasandling12@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:30:36.409309500Z,coro_drew@icloud.com,Bounce,552,<coro_drew@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:33:41.715770400Z,childofgoda4@icloud.com,OOB,550,5.1.1 <****@**********>: user does not exist,InvalidRecipient,Hard
+2026-07-29T14:27:48.281600500Z,champnoah2028@icloud.com,Bounce,552,<champnoah2028@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T14:34:22.848078900Z,daltoncain6020@icloud.com,Bounce,552,<daltoncain6020@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T15:13:26.443823200Z,andres28021986@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm 586e51a60fabf-45886b4fe81si2713562fac.237 - gsmtp,QuotaIssues,Hard
+2026-07-29T14:29:52.188321300Z,conradsmallmon21@icloud.com,Bounce,552,<conradsmallmon21@icloud.com>: user is over quota,QuotaIssues,Hard
+2026-07-29T15:15:57.639011100Z,andrewlinks@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser 006d021491bc7-6aca5197d8fsi2024914eaf.13 - gsmtp,InvalidRecipient,Hard
+2026-07-29T14:17:44.469124Z,aaronhill2762400@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47fb6b35fabsi6453174f8f.274 - gsmtp,InvalidRecipient,Hard
+2026-07-29T15:16:46.681104800Z,andrewsraybrandon@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm 5614622812f47-4ad6efe9855si1811285b6e.84 - gsmtp,QuotaIssues,Hard
+2026-07-29T14:18:04.959746800Z,abarcagiovanni77@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm ffacd0b85a97d-47fb6b2b69bsi8499443f8f.188 - gsmtp,QuotaIssues,Hard
+2026-07-29T14:22:23.204941300Z,billymaselli2005@gmail.com,Bounce,552,The recipient's inbox is out of storage space and inactive. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaPerm ffacd0b85a97d-47fb6b40a94si7298527f8f.330 - gsmtp,QuotaIssues,Hard
+2026-07-29T14:24:25.845974100Z,brandong34@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-47fb6b2b63csi7727209f8f.200 - gsmtp,InvalidRecipient,Hard
