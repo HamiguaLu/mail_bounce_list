@@ -26528,3 +26528,73 @@ Timestamp,Recipient Email,Sender Domain,Record Type,SMTP Code,SMTP Message,Class
 2026-08-30T12:12:10.871952100Z,mohan.y@solix-japan.com,OOB,550,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. For more information; go to 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser 46e09a7af769-7f4fa804594si11479057a34.32 - gsmtp,InvalidRecipient,Hard
 2026-08-30T13:26:22.621765600Z,t.k@reshark.email,OOB,550,5.1.1 <t.k@reshark.email> User doesn't exist: t.k@reshark.email,InvalidRecipient,Hard
 2026-08-30T14:17:47.047769Z,wsiobahn@enjoypirkx.info,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-cc1f36ed8a9si15433988a12.242 - gsmtp,InvalidRecipient,Hard
+2026-08-31T00:34:51.220217Z,anand-omd@changelogwave.com,Bounce,550,<anand-omd@changelogwave.com>: Recipient address rejected: User unknown in virtual mailbox table,InvalidRecipient,Hard
+2026-08-31T01:41:06.164933400Z,brian@segmentcience.shop,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser d2e1a72fcca58-858e5384d4fsi5789231b3a.247 - gsmtp,InvalidRecipient,Hard
+2026-08-31T02:38:21.133700500Z,annsophie.pauli@solix-datalakeplus.com,OOB,550,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. For more information; go to 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser 586e51a60fabf-468a59ae806si11132977fac.118 - gsmtp,InvalidRecipient,Hard
+2026-08-31T10:20:55.797591800Z,kumar-om@changelogwave.com,Bounce,550,<kumar-om@changelogwave.com>: Recipient address rejected: User unknown in virtual mailbox table,InvalidRecipient,Hard
+2026-08-31T12:54:52.472113Z,o.annd@changelogwave.com,Bounce,550,<o.annd@changelogwave.com>: Recipient address rejected: User unknown in virtual mailbox table,InvalidRecipient,Hard
+2026-08-31T13:17:13.913775100Z,juul@aiimsmg.com,OOB,550,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. For more information; go to 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser 006d021491bc7-6b1ce3c48c6si13483123eaf.80 - gsmtp,InvalidRecipient,Hard
+2026-08-31T16:02:29.328231600Z,kranlasse@yahoo.se,Bounce,554,30 Sorry; your message to kranlasse@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:02:32.187388500Z,janysweety21@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:02:32.220750600Z,jannemalmberg@yahoo.se,Bounce,554,30 Sorry; your message to jannemalmberg@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:02:35.816957600Z,penmarric@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:02:39.241160Z,salahuddin_ahmmed@yahoo.com,Bounce,554,30 Sorry; your message to salahuddin_ahmmed@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:02:41.617069600Z,ermiashaile2015@yahoo.se,Bounce,554,30 Sorry; your message to ermiashaile2015@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:02:41.359156700Z,nikitaspain23@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:02:42.296051100Z,monaghanpg@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:02:42.563324300Z,nwamay@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:02:46.135992Z,robert_not@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:02:48.155361Z,lgh3114@yahoo.se,Bounce,554,30 Sorry; your message to lgh3114@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:02:48.647581600Z,kulleborg@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:02:49.989166800Z,linus6666@yahoo.com,Bounce,554,30 Sorry; your message to linus6666@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:02:49.493112100Z,zicoo64@yahoo.com,Bounce,554,30 Sorry; your message to zicoo64@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:02:56.416746500Z,nancykeh@yahoo.com,Bounce,554,30 Sorry; your message to nancykeh@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:03:00.736564500Z,hossamhashema@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:03:07.443316400Z,gustavsson_g@yahoo.se,Bounce,554,30 Sorry; your message to gustavsson_g@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:03:17.558188100Z,birgittas1@yahoo.se,Bounce,554,30 Sorry; your message to birgittas1@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:03:19.722714200Z,foadmaroufi@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:03:21.680050600Z,nilspersson507@yahoo.se,Bounce,554,30 Sorry; your message to nilspersson507@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:06:55.336423300Z,tapanipollack@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-482fbb29a52si18971001f8f.188 - gsmtp,InvalidRecipient,Hard
+2026-08-31T16:09:29.620734100Z,ralfsundberg@telia.com,Bounce,550,RCPT TO:<ralfsundberg@telia.com> User unknown,InvalidRecipient,Hard
+2026-08-31T16:17:11.658876Z,zacha3@spray.se,OOB,550,5.1.1 <zacha3@spray.se> is not a valid mailbox,InvalidRecipient,Hard
+2026-08-31T16:10:23.663231800Z,shannontville@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:10:22.013287900Z,pottershirley96@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:09:38.927910900Z,gthorstensson@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:09:41.083029500Z,mnpl1798@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:09:48.361387300Z,mendieta1789@yahoo.se,Bounce,554,30 Sorry; your message to mendieta1789@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:09:40.933538300Z,mrsnipe@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:09:56.155340600Z,vidar.larsson@yahoo.com,Bounce,554,30 Sorry; your message to vidar.larsson@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:10:16.908433200Z,nafets0006@yahoo.se,Bounce,554,30 Sorry; your message to nafets0006@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:10:15.816600Z,slevjohan@yahoo.se,Bounce,554,30 Sorry; your message to slevjohan@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:10:44.932509200Z,msinnocient@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:10:09.165907Z,claes192@yahoo.com,Bounce,554,30 Sorry; your message to claes192@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:11:32.823526500Z,dossdoss2000@yahoo.com,Bounce,554,30 Sorry; your message to dossdoss2000@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:33:26.679321800Z,stephen.monaco@momentumaccelerator.info,OOB,550,,DNSFailure,Hard
+2026-08-31T16:08:11.186187600Z,haditet@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:04:37.299517Z,nilsolsa@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-482fbb287fdsi17937975f8f.207 - gsmtp,InvalidRecipient,Hard
+2026-08-31T16:09:54.355145900Z,ahmed.shakour@gmail.com,Bounce,550,The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information; go to  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-482fbb52735si18611798f8f.451 - gsmtp,InvalidRecipient,Hard
+2026-08-31T17:59:23.793145Z,thomas.k@with-spectrumlabs.nl,OOB,550,5.1.1 <thomas.k@with-spectrumlabs.nl> User doesn't exist: thomas.k@with-spectrumlabs.nl,InvalidRecipient,Hard
+2026-08-31T16:03:21.979673500Z,kvuvu@yahoo.se,Bounce,554,30 Sorry; your message to kvuvu@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:09:50.751601200Z,puta@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:11:03.310140700Z,kissablelove@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:10:14.374335300Z,hojji_79@yahoo.se,Bounce,554,30 Sorry; your message to hojji_79@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:10:10.171396900Z,sa_helberg@yahoo.se,Bounce,554,30 Sorry; your message to sa_helberg@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:10:53.068531300Z,ygmasto@yahoo.com,Bounce,554,30 Sorry; your message to ygmasto@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:11:04.204527900Z,octavian_murtaza@yahoo.se,Bounce,552,This message could not be delivered because the recipient's mailbox is full. Please try again later or contact the recipient directly. See https://senders.yahooinc.com/smtp-error-codes#mailbox-full for more information,QuotaIssues,Hard
+2026-08-31T16:11:08.801779300Z,kvernes@yahoo.no,Bounce,554,30 Sorry; your message to kvernes@yahoo.no cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:10:49.371311200Z,creightlin2rules@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:10:58.493540800Z,kajsa.magnusson@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:11:14.733444100Z,kjell.bjareborg@yahoo.se,Bounce,554,30 Sorry; your message to kjell.bjareborg@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T18:45:37.351554800Z,miranda.f@solix-intelligence.com,OOB,550,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. For more information; go to 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser 586e51a60fabf-46afb25bc32si885358fac.211 - gsmtp,InvalidRecipient,Hard
+2026-08-31T19:13:15.149360200Z,marcuss@restociodev.com,OOB,550,550-5.1.1 The email account that you tried to reach does not exist. Please try 550-5.1.1 double-checking the recipient's email address for typos or 550-5.1.1 unnecessary spaces. For more information; go to 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser 6a1803df08f44-90ceae5066fsi81710376d6.217 - gsmtp,InvalidRecipient,Hard
+2026-08-31T16:02:59.489703600Z,steve_titchenell@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:04:39.562155800Z,suede59d@yahoo.se,Bounce,554,30 Sorry; your message to suede59d@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:04:25.922816Z,thomaswyre@yahoo.com,Bounce,554,30 Sorry; your message to thomaswyre@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:04:16.067920100Z,irishgal9899@yahoo.com,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:03:54.200308500Z,mickecasper@yahoo.se,Bounce,554,30 Sorry; your message to mickecasper@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:05:00.706961300Z,hans.nordn@yahoo.se,Bounce,554,30 Sorry; your message to hans.nordn@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:06:13.963556600Z,gtek78@yahoo.com,Bounce,554,30 Sorry; your message to gtek78@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:07:02.078772700Z,danieleriksson75@yahoo.se,Bounce,554,30 Sorry; your message to danieleriksson75@yahoo.se cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:06:35.340168300Z,mgabby75@yahoo.com,Bounce,554,30 Sorry; your message to mgabby75@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
+2026-08-31T16:07:00.294698Z,pberg76@yahoo.se,Bounce,552,1 Requested mail action aborted; mailbox not found,InvalidRecipient,Hard
+2026-08-31T16:07:06.831997100Z,suckerpunchguy@yahoo.com,Bounce,554,30 Sorry; your message to suckerpunchguy@yahoo.com cannot be delivered. This mailbox is disabled (554.30).,InvalidRecipient,Hard
