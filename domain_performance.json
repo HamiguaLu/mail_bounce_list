@@ -1,0 +1,2001 @@
+{
+  "generated": "2026-10-03T00:18:25.681045",
+  "spamhaus_available": true,
+  "owners": {
+    "gerry": {
+      "domains": {
+        "0f9u0.shop": {
+          "success": 2057,
+          "hard": 1,
+          "soft": 3,
+          "total": 2061,
+          "success_rate": 99.8,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "983r7.shop": {
+          "success": 2109,
+          "hard": 1,
+          "soft": 1,
+          "total": 2111,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "amordarling.lat": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "amordarling.mom": {
+          "success": 107,
+          "hard": 0,
+          "soft": 1,
+          "total": 108,
+          "success_rate": 99.1,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "amordarling.xyz": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "amourcupid.lat": {
+          "success": 105,
+          "hard": 0,
+          "soft": 1,
+          "total": 106,
+          "success_rate": 99.1,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "amourcupid.mom": {
+          "success": 103,
+          "hard": 0,
+          "soft": 3,
+          "total": 106,
+          "success_rate": 97.2,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "amourcupid.pro": {
+          "success": 100,
+          "hard": 0,
+          "soft": 1,
+          "total": 101,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "amourcupid.xyz": {
+          "success": 99,
+          "hard": 0,
+          "soft": 0,
+          "total": 99,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "babevibedoll.online": {
+          "success": 2013,
+          "hard": 7,
+          "soft": 0,
+          "total": 2020,
+          "success_rate": 99.7,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "belovedflame.lat": {
+          "success": 104,
+          "hard": 0,
+          "soft": 0,
+          "total": 104,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "belovedflame.mom": {
+          "success": 108,
+          "hard": 0,
+          "soft": 0,
+          "total": 108,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "belovedflame.pro": {
+          "success": 105,
+          "hard": 0,
+          "soft": 0,
+          "total": 105,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "belovedflame.xyz": {
+          "success": 102,
+          "hard": 0,
+          "soft": 3,
+          "total": 105,
+          "success_rate": 97.1,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "belovedglow.lat": {
+          "success": 110,
+          "hard": 0,
+          "soft": 0,
+          "total": 110,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "belovedglow.mom": {
+          "success": 104,
+          "hard": 0,
+          "soft": 1,
+          "total": 105,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "belovedglow.xyz": {
+          "success": 102,
+          "hard": 0,
+          "soft": 3,
+          "total": 105,
+          "success_rate": 97.1,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "blisscozy.mom": {
+          "success": 101,
+          "hard": 0,
+          "soft": 1,
+          "total": 102,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "blisscozy.xyz": {
+          "success": 107,
+          "hard": 0,
+          "soft": 0,
+          "total": 107,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "blisseuphoria.help": {
+          "success": 105,
+          "hard": 0,
+          "soft": 0,
+          "total": 105,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "blisssweetheart.mom": {
+          "success": 99,
+          "hard": 0,
+          "soft": 0,
+          "total": 99,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "blisssweetheart.singles": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bondgiggle.lat": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bondgiggle.mom": {
+          "success": 96,
+          "hard": 0,
+          "soft": 1,
+          "total": 97,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bondgiggle.pro": {
+          "success": 107,
+          "hard": 0,
+          "soft": 0,
+          "total": 107,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bondgiggle.xyz": {
+          "success": 98,
+          "hard": 0,
+          "soft": 0,
+          "total": 98,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bondtandem.lat": {
+          "success": 105,
+          "hard": 0,
+          "soft": 0,
+          "total": 105,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bondtandem.mom": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bondtandem.singles": {
+          "success": 96,
+          "hard": 0,
+          "soft": 0,
+          "total": 96,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "brightcozy.mom": {
+          "success": 95,
+          "hard": 0,
+          "soft": 1,
+          "total": 96,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "brightcozy.xyz": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "brightduo.shop": {
+          "success": 98,
+          "hard": 0,
+          "soft": 0,
+          "total": 98,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "brightmerry.shop": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "brighttandem.xyz": {
+          "success": 75,
+          "hard": 0,
+          "soft": 0,
+          "total": 75,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bubblygentle.lat": {
+          "success": 107,
+          "hard": 0,
+          "soft": 0,
+          "total": 107,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bubblygentle.mom": {
+          "success": 99,
+          "hard": 0,
+          "soft": 0,
+          "total": 99,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bubblygentle.singles": {
+          "success": 81,
+          "hard": 0,
+          "soft": 0,
+          "total": 81,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bubblyspark.lat": {
+          "success": 104,
+          "hard": 0,
+          "soft": 0,
+          "total": 104,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bubblyspark.mom": {
+          "success": 101,
+          "hard": 0,
+          "soft": 0,
+          "total": 101,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bubblyspark.shop": {
+          "success": 103,
+          "hard": 0,
+          "soft": 1,
+          "total": 104,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "bubblyspark.singles": {
+          "success": 103,
+          "hard": 0,
+          "soft": 1,
+          "total": 104,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "butterflyeuphoria.pro": {
+          "success": 104,
+          "hard": 0,
+          "soft": 0,
+          "total": 104,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "butterflyeuphoria.xyz": {
+          "success": 104,
+          "hard": 0,
+          "soft": 0,
+          "total": 104,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "butterflysunshine.shop": {
+          "success": 99,
+          "hard": 0,
+          "soft": 0,
+          "total": 99,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "butterflysweet.shop": {
+          "success": 107,
+          "hard": 0,
+          "soft": 1,
+          "total": 108,
+          "success_rate": 99.1,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "butterflytender.shop": {
+          "success": 100,
+          "hard": 0,
+          "soft": 0,
+          "total": 100,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "butterflywarm.mom": {
+          "success": 95,
+          "hard": 0,
+          "soft": 0,
+          "total": 95,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cheerwarm.us": {
+          "success": 106,
+          "hard": 0,
+          "soft": 0,
+          "total": 106,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cn-home-s15lol.com": {
+          "success": 2007,
+          "hard": 3,
+          "soft": 6,
+          "total": 2016,
+          "success_rate": 99.6,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "comfortcompanion.shop": {
+          "success": 100,
+          "hard": 0,
+          "soft": 1,
+          "total": 101,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "comfortconnect.shop": {
+          "success": 99,
+          "hard": 0,
+          "soft": 0,
+          "total": 99,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "comfortcupid.shop": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "companionbond.shop": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "companionsprinkle.shop": {
+          "success": 110,
+          "hard": 0,
+          "soft": 0,
+          "total": 110,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "connectpuppy.mom": {
+          "success": 106,
+          "hard": 0,
+          "soft": 0,
+          "total": 106,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "connectsprinkle.pro": {
+          "success": 104,
+          "hard": 0,
+          "soft": 0,
+          "total": 104,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "connectsprinkle.xyz": {
+          "success": 78,
+          "hard": 0,
+          "soft": 0,
+          "total": 78,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cozydelight.lat": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cuddledarling.shop": {
+          "success": 101,
+          "hard": 0,
+          "soft": 0,
+          "total": 101,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cuddlehappy.pro": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cuddlehappy.xyz": {
+          "success": 100,
+          "hard": 0,
+          "soft": 0,
+          "total": 100,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cuddlepair.lat": {
+          "success": 90,
+          "hard": 0,
+          "soft": 1,
+          "total": 91,
+          "success_rate": 98.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cuddlepair.mom": {
+          "success": 106,
+          "hard": 0,
+          "soft": 0,
+          "total": 106,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cuddlepair.singles": {
+          "success": 83,
+          "hard": 0,
+          "soft": 0,
+          "total": 83,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cupidcozy.help": {
+          "success": 96,
+          "hard": 0,
+          "soft": 0,
+          "total": 96,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cupidkiss.shop": {
+          "success": 93,
+          "hard": 0,
+          "soft": 1,
+          "total": 94,
+          "success_rate": 98.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cupidsmile.lat": {
+          "success": 106,
+          "hard": 0,
+          "soft": 0,
+          "total": 106,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cupidsmile.mom": {
+          "success": 80,
+          "hard": 0,
+          "soft": 0,
+          "total": 80,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cupidsmile.singles": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "cupidsweet.xyz": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "darlingtogether.xyz": {
+          "success": 105,
+          "hard": 0,
+          "soft": 0,
+          "total": 105,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "darlingtwinkle.shop": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "doitgenterly.us": {
+          "success": 1865,
+          "hard": 2,
+          "soft": 3,
+          "total": 1870,
+          "success_rate": 99.7,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "duobond.lat": {
+          "success": 97,
+          "hard": 0,
+          "soft": 0,
+          "total": 97,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "duobond.mom": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "echopair.men": {
+          "success": 1906,
+          "hard": 0,
+          "soft": 6,
+          "total": 1912,
+          "success_rate": 99.7,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "embraceradiant.pro": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "embraceradiant.xyz": {
+          "success": 103,
+          "hard": 0,
+          "soft": 1,
+          "total": 104,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "esr42.shop": {
+          "success": 2047,
+          "hard": 0,
+          "soft": 2,
+          "total": 2049,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "euphoriacupcake.shop": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "euphoriasmile.shop": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "euphoriasprinkle.pro": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "euphoriasprinkle.xyz": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "exactlywhat.us": {
+          "success": 2030,
+          "hard": 1,
+          "soft": 1,
+          "total": 2032,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "fcryc.icu": {
+          "success": 2006,
+          "hard": 1,
+          "soft": 0,
+          "total": 2007,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "flamesoulmate.singles": {
+          "success": 107,
+          "hard": 0,
+          "soft": 0,
+          "total": 107,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "fluttersweetheart.singles": {
+          "success": 96,
+          "hard": 0,
+          "soft": 0,
+          "total": 96,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "fusionloop.mom": {
+          "success": 1898,
+          "hard": 0,
+          "soft": 0,
+          "total": 1898,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gentletandem.singles": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gentleunite.shop": {
+          "success": 104,
+          "hard": 0,
+          "soft": 1,
+          "total": 105,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "getmoretoday.de": {
+          "success": 1981,
+          "hard": 2,
+          "soft": 1,
+          "total": 1984,
+          "success_rate": 99.8,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gigglebutterfly.us": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gigglehappy.lat": {
+          "success": 106,
+          "hard": 0,
+          "soft": 0,
+          "total": 106,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gigglehappy.mom": {
+          "success": 74,
+          "hard": 0,
+          "soft": 0,
+          "total": 74,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gleeamor.lat": {
+          "success": 98,
+          "hard": 0,
+          "soft": 0,
+          "total": 98,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gleebutterfly.shop": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gleeembrace.xyz": {
+          "success": 108,
+          "hard": 0,
+          "soft": 0,
+          "total": 108,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gleewarm.lat": {
+          "success": 101,
+          "hard": 0,
+          "soft": 0,
+          "total": 101,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gleewarm.mom": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "glowjolly.lat": {
+          "success": 104,
+          "hard": 0,
+          "soft": 0,
+          "total": 104,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "glowjolly.mom": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "gravitate.singles": {
+          "success": 2142,
+          "hard": 1,
+          "soft": 2,
+          "total": 2145,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "happyembrace.lat": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "happyembrace.mom": {
+          "success": 109,
+          "hard": 0,
+          "soft": 0,
+          "total": 109,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "happylove.pro": {
+          "success": 100,
+          "hard": 0,
+          "soft": 1,
+          "total": 101,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "hearttwo.us": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "honeycomfort.pro": {
+          "success": 99,
+          "hard": 0,
+          "soft": 0,
+          "total": 99,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "honeyluv.us": {
+          "success": 97,
+          "hard": 0,
+          "soft": 0,
+          "total": 97,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "humanos.it.com": {
+          "success": 1964,
+          "hard": 6,
+          "soft": 8,
+          "total": 1978,
+          "success_rate": 99.3,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "jcarron.shop": {
+          "success": 2082,
+          "hard": 0,
+          "soft": 0,
+          "total": 2082,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "jollyhoney.pro": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "jollyhoney.xyz": {
+          "success": 107,
+          "hard": 0,
+          "soft": 0,
+          "total": 107,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "jollyus.pro": {
+          "success": 102,
+          "hard": 0,
+          "soft": 1,
+          "total": 103,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "jollyus.xyz": {
+          "success": 105,
+          "hard": 0,
+          "soft": 0,
+          "total": 105,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "joyheart.mom": {
+          "success": 102,
+          "hard": 0,
+          "soft": 1,
+          "total": 103,
+          "success_rate": 99.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "joyheart.singles": {
+          "success": 105,
+          "hard": 0,
+          "soft": 0,
+          "total": 105,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "joyjolly.singles": {
+          "success": 98,
+          "hard": 0,
+          "soft": 0,
+          "total": 98,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "jumiagh.shop": {
+          "success": 2158,
+          "hard": 0,
+          "soft": 0,
+          "total": 2158,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "kindlepulse.help": {
+          "success": 1926,
+          "hard": 0,
+          "soft": 0,
+          "total": 1926,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "kisscomfort.shop": {
+          "success": 102,
+          "hard": 0,
+          "soft": 0,
+          "total": 102,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "kisspuppy.xyz": {
+          "success": 26,
+          "hard": 0,
+          "soft": 61,
+          "total": 87,
+          "success_rate": 29.9,
+          "spamhaus_listed": true,
+          "spamhaus_category": "Spam domain",
+          "spamhaus_reason": "DBL listed"
+        },
+        "kisssweet.shop": {
+          "success": 23,
+          "hard": 0,
+          "soft": 63,
+          "total": 86,
+          "success_rate": 26.7,
+          "spamhaus_listed": true,
+          "spamhaus_category": "IP 181.41.217.109 blacklisted",
+          "spamhaus_reason": "IP blacklisted on CSS"
+        },
+        "kisstender.singles": {
+          "success": 14,
+          "hard": 0,
+          "soft": 24,
+          "total": 38,
+          "success_rate": 36.8,
+          "spamhaus_listed": true,
+          "spamhaus_category": "IP 181.41.217.109 blacklisted",
+          "spamhaus_reason": "IP blacklisted on CSS"
+        },
+        "kisstogether.pro": {
+          "success": 24,
+          "hard": 0,
+          "soft": 66,
+          "total": 90,
+          "success_rate": 26.7,
+          "spamhaus_listed": true,
+          "spamhaus_category": "IP 181.41.217.109 blacklisted",
+          "spamhaus_reason": "IP blacklisted on CSS"
+        },
+        "lifeinlogs.de": {
+          "success": 1936,
+          "hard": 4,
+          "soft": 1,
+          "total": 1941,
+          "success_rate": 99.7,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "lifeinpixels.de": {
+          "success": 1908,
+          "hard": 0,
+          "soft": 2,
+          "total": 1910,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "louisallc.shop": {
+          "success": 2059,
+          "hard": 1,
+          "soft": 3,
+          "total": 2063,
+          "success_rate": 99.8,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "luvheart.help": {
+          "success": 103,
+          "hard": 0,
+          "soft": 0,
+          "total": 103,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "luvus.singles": {
+          "success": 79,
+          "hard": 0,
+          "soft": 11,
+          "total": 90,
+          "success_rate": 87.8,
+          "spamhaus_listed": true,
+          "spamhaus_category": "Spam domain",
+          "spamhaus_reason": "DBL listed"
+        },
+        "matchcomfort.mom": {
+          "success": 51,
+          "hard": 0,
+          "soft": 11,
+          "total": 62,
+          "success_rate": 82.3,
+          "spamhaus_listed": true,
+          "spamhaus_category": "IP 166.0.22.59 blacklisted",
+          "spamhaus_reason": "IP blacklisted on CSS"
+        },
+        "matchcomfort.singles": {
+          "success": 41,
+          "hard": 0,
+          "soft": 14,
+          "total": 55,
+          "success_rate": 74.5,
+          "spamhaus_listed": true,
+          "spamhaus_category": "IP 166.0.22.59 blacklisted",
+          "spamhaus_reason": "IP blacklisted on CSS"
+        },
+        "matedarling.singles": {
+          "success": 81,
+          "hard": 0,
+          "soft": 6,
+          "total": 87,
+          "success_rate": 93.1,
+          "spamhaus_listed": true,
+          "spamhaus_category": "IP 166.0.22.59 blacklisted",
+          "spamhaus_reason": "IP blacklisted on CSS"
+        },
+        "mateluv.singles": {
+          "success": 67,
+          "hard": 0,
+          "soft": 1,
+          "total": 68,
+          "success_rate": 98.5,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "mpawparadise.shop": {
+          "success": 1961,
+          "hard": 5,
+          "soft": 3,
+          "total": 1969,
+          "success_rate": 99.6,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "nadielectron.icu": {
+          "success": 1978,
+          "hard": 2,
+          "soft": 2,
+          "total": 1982,
+          "success_rate": 99.8,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "nzjlersb.icu": {
+          "success": 2340,
+          "hard": 0,
+          "soft": 1,
+          "total": 2341,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "overlap.bio": {
+          "success": 2055,
+          "hard": 3,
+          "soft": 0,
+          "total": 2058,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "pairembrace.shop": {
+          "success": 69,
+          "hard": 0,
+          "soft": 0,
+          "total": 69,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "peachecstasy.shop": {
+          "success": 70,
+          "hard": 0,
+          "soft": 0,
+          "total": 70,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "pulsemingle.date": {
+          "success": 1862,
+          "hard": 1,
+          "soft": 1,
+          "total": 1864,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "purasigdiukjan.sbs": {
+          "success": 2081,
+          "hard": 0,
+          "soft": 2,
+          "total": 2083,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "reward-vip.co": {
+          "success": 1902,
+          "hard": 2,
+          "soft": 0,
+          "total": 1904,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "romanceus.shop": {
+          "success": 65,
+          "hard": 0,
+          "soft": 0,
+          "total": 65,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "smilejolly.shop": {
+          "success": 69,
+          "hard": 0,
+          "soft": 0,
+          "total": 69,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "smiletender.world": {
+          "success": 95,
+          "hard": 0,
+          "soft": 0,
+          "total": 95,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "sportutlellc.shop": {
+          "success": 1654,
+          "hard": 0,
+          "soft": 2,
+          "total": 1656,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "tandemmerry.pro": {
+          "success": 72,
+          "hard": 0,
+          "soft": 0,
+          "total": 72,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "techandtonic.de": {
+          "success": 2069,
+          "hard": 1,
+          "soft": 2,
+          "total": 2072,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "tendercozy.us": {
+          "success": 68,
+          "hard": 0,
+          "soft": 0,
+          "total": 68,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "tendervalentine.date": {
+          "success": 99,
+          "hard": 0,
+          "soft": 0,
+          "total": 99,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "twinkleamor.mom": {
+          "success": 56,
+          "hard": 0,
+          "soft": 0,
+          "total": 56,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "unitegiggle.us": {
+          "success": 68,
+          "hard": 0,
+          "soft": 0,
+          "total": 68,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "ustogether.pro": {
+          "success": 69,
+          "hard": 0,
+          "soft": 0,
+          "total": 69,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "valentinebliss.singles": {
+          "success": 46,
+          "hard": 0,
+          "soft": 0,
+          "total": 46,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "valentinelove.singles": {
+          "success": 65,
+          "hard": 0,
+          "soft": 0,
+          "total": 65,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "valentineromance.mom": {
+          "success": 68,
+          "hard": 0,
+          "soft": 0,
+          "total": 68,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "valentineromance.singles": {
+          "success": 66,
+          "hard": 0,
+          "soft": 0,
+          "total": 66,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "web-app-souhu.com": {
+          "success": 1708,
+          "hard": 1,
+          "soft": 0,
+          "total": 1709,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "wenaonline.icu": {
+          "success": 1973,
+          "hard": 2,
+          "soft": 19,
+          "total": 1994,
+          "success_rate": 98.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "whimsycupid.world": {
+          "success": 109,
+          "hard": 0,
+          "soft": 1,
+          "total": 110,
+          "success_rate": 99.1,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "whimsytender.pro": {
+          "success": 67,
+          "hard": 0,
+          "soft": 0,
+          "total": 67,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "whimsytender.us": {
+          "success": 69,
+          "hard": 0,
+          "soft": 0,
+          "total": 69,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "win777.gg": {
+          "success": 1819,
+          "hard": 0,
+          "soft": 1,
+          "total": 1820,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "yuangfang.top": {
+          "success": 2098,
+          "hard": 2,
+          "soft": 0,
+          "total": 2100,
+          "success_rate": 99.9,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        },
+        "zzzeefya.icu": {
+          "success": 2022,
+          "hard": 1,
+          "soft": 0,
+          "total": 2023,
+          "success_rate": 100.0,
+          "spamhaus_listed": false,
+          "spamhaus_category": null,
+          "spamhaus_reason": null
+        }
+      },
+      "ips": [
+        {
+          "ip": "173.212.199.35",
+          "proxy": "N/A",
+          "rdns": "vmi3330208.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "37.60.237.129",
+          "proxy": "N/A",
+          "rdns": "vmi3329246.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "161.97.103.112",
+          "proxy": "N/A",
+          "rdns": "vmi3421806.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "185.219.142.196",
+          "proxy": "N/A",
+          "rdns": "vmi3410478.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "173.212.236.114",
+          "proxy": "N/A",
+          "rdns": "vmi3410485.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "94.72.122.242",
+          "proxy": "N/A",
+          "rdns": "vmi3410493.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "46.250.245.5",
+          "proxy": "N/A",
+          "rdns": "vmi3410528.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "66.94.119.2",
+          "proxy": "N/A",
+          "rdns": "vmi3442273.contaboserver.net",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "104.168.144.54",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339123.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.139.124",
+          "proxy": "N/A",
+          "rdns": "vps-72c28fc6.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "23.254.144.30",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339551.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "104.168.138.84",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339552.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "104.168.139.235",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339553.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "23.254.129.204",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339549.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "104.168.140.80",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339554.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "23.254.224.147",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339555.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "23.254.225.180",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339556.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "23.254.226.3",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339557.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "23.254.142.224",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339550.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "23.254.225.244",
+          "proxy": "N/A",
+          "rdns": "hwsrv-1339558.hostwindsdns.com",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "148.113.244.209",
+          "proxy": "N/A",
+          "rdns": "vps-fba9a4fb.vps.ovh.ca",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "148.113.244.208",
+          "proxy": "N/A",
+          "rdns": "vps-0ad6be33.vps.ovh.ca",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "148.113.244.205",
+          "proxy": "N/A",
+          "rdns": "vps-5d23ec13.vps.ovh.ca",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "148.113.244.206",
+          "proxy": "N/A",
+          "rdns": "vps-a9863433.vps.ovh.ca",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "148.113.244.207",
+          "proxy": "N/A",
+          "rdns": "vps-597db687.vps.ovh.ca",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.91.151",
+          "proxy": "N/A",
+          "rdns": "vps-a04a35a9.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.91.154",
+          "proxy": "N/A",
+          "rdns": "vps-316be230.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.91.152",
+          "proxy": "N/A",
+          "rdns": "vps-a24f7ab7.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.91.150",
+          "proxy": "N/A",
+          "rdns": "vps-21816f47.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.91.153",
+          "proxy": "N/A",
+          "rdns": "vps-28222514.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.142.229",
+          "proxy": "N/A",
+          "rdns": "vps-4eae7755.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.142.230",
+          "proxy": "N/A",
+          "rdns": "vps-68d8b6f9.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.142.228",
+          "proxy": "N/A",
+          "rdns": "vps-ce62bfe3.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.142.227",
+          "proxy": "N/A",
+          "rdns": "vps-f728f52d.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "40.160.142.226",
+          "proxy": "N/A",
+          "rdns": "vps-02519ed8.vps.ovh.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "181.41.217.109",
+          "proxy": "N/A",
+          "rdns": "mail.kisspuppy.xyz",
+          "spamhaus_listed": true,
+          "spamhaus_blocklists": [
+            "CSS"
+          ],
+          "spamhaus_last_seen": 1790979365
+        },
+        {
+          "ip": "166.0.22.59",
+          "proxy": "N/A",
+          "rdns": "mail.luvus.singles",
+          "spamhaus_listed": true,
+          "spamhaus_blocklists": [
+            "CSS"
+          ],
+          "spamhaus_last_seen": 1790979366
+        },
+        {
+          "ip": "181.41.217.95",
+          "proxy": "N/A",
+          "rdns": "mail.mateluv.singles",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "45.127.32.50",
+          "proxy": "N/A",
+          "rdns": "mail.smilejolly.shop",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "166.0.22.42",
+          "proxy": "N/A",
+          "rdns": "mail.unitegiggle.us",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        },
+        {
+          "ip": "45.127.35.57",
+          "proxy": "N/A",
+          "rdns": "mail.valentineromance.mom",
+          "spamhaus_listed": false,
+          "spamhaus_blocklists": [],
+          "spamhaus_last_seen": null
+        }
+      ],
+      "totals": {
+        "success": 77953,
+        "hard": 50,
+        "soft": 357,
+        "total": 78360,
+        "success_rate": 99.5
+      }
+    }
+  }
+}
